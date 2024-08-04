@@ -27,6 +27,6 @@ We are always open to collaboration and eager to work on new projects. If you ar
 
 Thank you for visiting our GitHub repository. We look forward to collaborating with you and driving digital transformation together!
 
-## Get in Touch
+## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahuci-Global-Resources&theme=dark)](https://git.io/streak-stats)
