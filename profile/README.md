@@ -20,8 +20,13 @@ Our mission is to empower local businesses by simplifying their operations throu
 
 We are always open to collaboration and eager to work on new projects. If you are interested in partnering with us or have any questions, please feel free to reach out.
 
-- **Website**: [Shahuci Global Resources](https://www.shahuci.com)
-- **Email**: [info@shahuci.com](mailto:info@shahuci.com)
+- **Website**: [Shahuci Global Resources](https://www.sgr.com.ng)
+- **Email**: [info@sgr.com.ng](mailto:info@sgr.com.ng)
+- **Tel**: [+2349029020292](tel:+2349029020292)
 - **LinkedIn**: [Shahuci Global Resources](https://www.linkedin.com/company/shahuci-global-resources)
 
 Thank you for visiting our GitHub repository. We look forward to collaborating with you and driving digital transformation together!
+
+## Get in Touch
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahuci-Global-Resources&theme=dark)](https://git.io/streak-stats)
